@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TREND-TRYST/static/css/main.2b7173bf.css",
+    "main.js": "/TREND-TRYST/static/js/main.e490dff0.js",
+    "index.html": "/TREND-TRYST/index.html",
+    "main.2b7173bf.css.map": "/TREND-TRYST/static/css/main.2b7173bf.css.map",
+    "main.e490dff0.js.map": "/TREND-TRYST/static/js/main.e490dff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7173bf.css",
+    "static/js/main.e490dff0.js"
+  ]
+}
