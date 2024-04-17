@@ -2,8 +2,7 @@
 
 -   This is an E-commerce shopping website
 -   Build using `create-react-app`
--   Live Demo: https://khunhour.github.io/shopping-cart/
-
+  
 # Build With
 
 -   HTML5
@@ -22,8 +21,7 @@
 # Getting Started
 
 ```
-git clone https://github.com/khunhour/shopping-cart.git
-cd shopping-cart
+git@github.com:ShailviBajpai/TREND-TRYST.git
 npm install
 npm start
 ```
